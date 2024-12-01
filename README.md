@@ -1,1 +1,25 @@
 # AI-pratcics
+'''
+0.2.0
+https://colab.research.google.com/drive/1lK8qcIehlYpPeZy24u26jCdGaBMtnUPc?usp=sharing
+'''
+0.3.0
+https://colab.research.google.com/drive/1UfHfS5-m_74FQDcpPRAvwpKQtEhV0tWR?usp=sharing
+'''
+0.4.0
+https://colab.research.google.com/drive/1KfAl0BimBSxOrU4lUU3hlfWjJfmy7CRy?usp=sharing
+'''
+0.5.0
+https://colab.research.google.com/drive/1JBVLC3eY98oCq4f06-l0zTaef2L383E0?usp=sharing
+'''
+0.6.0
+https://colab.research.google.com/drive/1JBVLC3eY98oCq4f06-l0zTaef2L383E0?usp=sharing
+'''
+0.7.0
+https://colab.research.google.com/drive/1b7SzVpIMt6cesg5c3uInovyBDUIn_4A6?usp=sharing
+'''
+0.8.0
+https://colab.research.google.com/drive/16OhEv1ynua4j57A-ilch_Sezltx7h37-?usp=sharing
+'''
+0.9.0
+https://colab.research.google.com/drive/1C-CJ7eO4mmBCrkehGSq5XyXjcWRWwTxG?usp=sharing
