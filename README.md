@@ -23,3 +23,6 @@ https://colab.research.google.com/drive/16OhEv1ynua4j57A-ilch_Sezltx7h37-?usp=sh
 '''
 0.9.0
 https://colab.research.google.com/drive/1C-CJ7eO4mmBCrkehGSq5XyXjcWRWwTxG?usp=sharing
+'''
+1.0.0
+https://colab.research.google.com/drive/1euoXFWZnNq_uNwkdGjOiIc8-dcOcRG0M?usp=sharing
